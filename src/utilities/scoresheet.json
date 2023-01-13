@@ -1,0 +1,270 @@
+{
+    "personality": {
+        "worst": {
+            "name": "論外",
+            "score": 0
+        },
+        "bad": {
+            "name": "悪い",
+            "score": 33
+        },
+        "normal": {
+            "name": "普通",
+            "score": 66
+        },
+        "good": {
+            "name": "良い",
+            "score": 100
+        }
+    },
+    "economics": {
+        "e0": {
+            "name": "収入なし",
+            "score": 0
+        },
+        "e100": {
+            "name": "年収100万円代",
+            "score": 10
+        },
+        "e200": {
+            "name": "年収200万円代",
+            "score": 20
+        },
+        "e300": {
+            "name": "年収300万円代",
+            "score": 30
+        },
+        "e400": {
+            "name": "年収400万円代",
+            "score": 40
+        },
+        "e500": {
+            "name": "年収500万円代",
+            "score": 50
+        },
+        "e600": {
+            "name": "年収600万円代",
+            "score": 60
+        },
+        "e700": {
+            "name": "年収700万円代",
+            "score": 70
+        },
+        "e800": {
+            "name": "年収800万円代",
+            "score": 80
+        },
+        "e900": {
+            "name": "年収900万円代",
+            "score": 90
+        },
+        "e1000": {
+            "name": "年収1000万円以上",
+            "score": 100
+        }
+    },
+    "health": {
+        "worst": {
+            "name": "痩せすぎ・肥満・難病",
+            "score": 0
+        },
+        "bad": {
+            "name": "痩せ・やや肥満",
+            "score": 50
+        },
+        "good": {
+            "name": "普通",
+            "score": 100
+        }
+    },
+    "family_consensus": {
+        "worst": {
+            "name": "親に借金などの重大な問題がある",
+            "score": 0
+        },
+        "bad": {
+            "name": "親の了承を得ずらい",
+            "score": 50
+        },
+        "good": {
+            "name": "親の了承を得られる",
+            "score": 100
+        }
+    },
+    "looks": {
+        "l0": {
+            "name": "論外（生理的嫌悪感を与える）",
+            "score": 0
+        },
+        "l10": {
+            "name": "下の下",
+            "score": 10
+        },
+        "l20": {
+            "name": "下の中",
+            "score": 20
+        },
+        "l30": {
+            "name": "下の上",
+            "score": 30
+        },
+        "l40": {
+            "name": "中の下",
+            "score": 40
+        },
+        "l50": {
+            "name": "中の中",
+            "score": 50
+        },
+        "l60": {
+            "name": "中の上",
+            "score": 60
+        },
+        "l70": {
+            "name": "上の下",
+            "score": 70
+        },
+        "l80": {
+            "name": "上の中",
+            "score": 80
+        },
+        "l90": {
+            "name": "上の上",
+            "score": 90
+        },
+        "god": {
+            "name": "神",
+            "score": 100
+        }
+    },
+    "work_understanding": {
+        "worst": {
+            "name": "相手の仕事への理解がない",
+            "score": 0
+        },
+        "bad": {
+            "name": "相手の仕事への理解に乏しい",
+            "score": 50
+        },
+        "good": {
+            "name": "相手の仕事に理解がある",
+            "score": 100
+        }
+    },
+    "age": {
+        "u25": {
+            "name": "20代前半",
+            "score": 100
+        },
+        "u30": {
+            "name": "20代後半",
+            "score": 80
+        },
+        "u35": {
+            "name": "30代前半",
+            "score": 60
+        },
+        "u40": {
+            "name": "30代後半",
+            "score": 40
+        },
+        "u45": {
+            "name": "40代前半",
+            "score": 20
+        },
+        "over45": {
+            "name": "45歳以降",
+            "score": 0
+        }
+    },
+    "work": {
+        "bigcompany": {
+            "name": "大企業正社員",
+            "score": 100
+        },
+        "normalcompany": {
+            "name": "企業正社員",
+            "score": 75
+        },
+        "bluecolor": {
+            "name": "非正規雇用",
+            "score": 50
+        },
+        "parttime": {
+            "name": "バイト",
+            "score": 25
+        },
+        "nonwork": {
+            "name": "無職",
+            "score": 0
+        }
+    },
+    "housework": {
+        "perfect": {
+            "name": "家事を完璧にこなす",
+            "score": 100
+        },
+        "good": {
+            "name": "家事が得意",
+            "score": 75
+        },
+        "normal": {
+            "name": "人並みに家事が出来る",
+            "score": 50
+        },
+        "bad": {
+            "name": "家事を積極的に行わない",
+            "score": 25
+        },
+        "worst": {
+            "name": "家事を全く行わない",
+            "score": 0
+        }
+    },
+    "academy": {
+        "a100": {
+            "name": "東京一工医",
+            "score": 100
+        },
+        "a90": {
+            "name": "難関国立大学",
+            "score": 90
+        },
+        "a80": {
+            "name": "早慶",
+            "score": 80
+        },
+        "a70": {
+            "name": "国立大学",
+            "score": 70
+        },
+        "a60": {
+            "name": "MARCH",
+            "score": 60
+        },
+        "a50": {
+            "name": "関関同立他中ランク大学",
+            "score": 50
+        },
+        "a40": {
+            "name": "その他大学",
+            "score": 40
+        },
+        "a30": {
+            "name": "短大・専門学校",
+            "score": 30
+        },
+        "a20": {
+            "name": "高卒",
+            "score": 20
+        },
+        "a10": {
+            "name": "中卒",
+            "score": 10
+        },
+        "a0": {
+            "name": "前科持ち・少年院等",
+            "score": 0
+        }
+    }
+}
